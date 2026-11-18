@@ -7,17 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://github.com/hpcaitech), Hong Kong University of Science and Technology (HKUST), advised by [Professor Junxian He](https://home.jasonpower.com/). Previously, I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He during my undergraduate studies.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), advised by Professor Junxian He. Previously, I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He during my undergraduate studies.
 
 My research focuses on natural language processing and machine learning. My research interests include:
 
 - LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
-
-News
-======
-*(No news available.)*
 
 Publications
 ======
@@ -27,13 +23,13 @@ Publications
 
    **Junteng Liu** (first author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
 
-   *Arxiv*. [GitHub Code]
+   *Arxiv*. (GitHub code repository available)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
 
    **Junteng Liu** (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
 
-   *Arxiv*. [GitHub Code: Vision4Chart]
+   *Arxiv*. (GitHub code repository: Vision4Chart)
 
 **Peer-reviewed Conference Papers**
 ------
@@ -41,7 +37,7 @@ Publications
 
    **Junteng Liu** (first author), Shiqi Chen, Yu Cheng, Junxian He
 
-   *EMNLP 2024*. [GitHub Code: Universal_Truthfulness_Hyperplane]
+   *EMNLP 2024*. (GitHub code repository: Universal_Truthfulness_Hyperplane)
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
 
